@@ -7,9 +7,11 @@ builds:
       - linux
     goarch:
       - amd64
+      
 # Archive customization
-archive:
-  format: tar.gz
+archives:
+  - id: default
+      format: tar.gz
   format_overrides:
     - goos: windows
       format: zip
@@ -19,6 +21,7 @@ archive:
   files:
     - README.md
     - LICENSE
+
 changelog:
   filters:
     exclude:

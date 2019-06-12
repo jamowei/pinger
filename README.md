@@ -1,5 +1,5 @@
 # Pinger
-Pinger is a small lightweigt command line programm written with ❤️ in go.
+Pinger is a small lightweigt command line programm written with ❤️ in [go](https://golang.org).
 It's made for testing TCP connections between to host. Therefore you must run it on both hosts, on one site in server mode and on the other side in client mode. Then the programm on the client side tries to reach the endpoint on the server side and logs it it was successfull.
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/jamowei/pinger/blob/master/LICENSE)
