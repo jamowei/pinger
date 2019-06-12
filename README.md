@@ -4,7 +4,7 @@ It's made for testing TCP connections between to host. Therefore you must run it
 
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/jamowei/pinger/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/jamowei/pinger.svg?branch=master)](https://travis-ci.org/jamowei/pinger)
-
+https://travis-ci.com/jamowei/pinger.svg?branch=master
 # Installation
 
 You can get the latest binary using Go:
