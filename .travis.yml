@@ -2,8 +2,6 @@ language: go
 
 go:
   - 1.x
-before_install:
-  - go get github.com/akamensky/argparse
 # calls goreleaser
 deploy:
 - provider: script
